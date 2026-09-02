@@ -1,2 +1,1 @@
-# aptitude-reasoning-questions
-A collection of Aptitude and Reasoning practice questions for competitive exams, placements, and interview preparation.
+The objective is to develop strong mathematical ability, logical thinking, English proficiency, speed, accuracy, and exam-solving strategy so that the same preparation can be used effectively for IT Placements, and GATE.
