@@ -6,6 +6,5 @@
 <img width="1552" height="872" alt="WhatsApp Image 2026-09-04 at 3 26 08 PM" src="https://github.com/user-attachments/assets/b7b028e2-a555-4563-a541-e9fb97e2cbe1" />
 <img width="934" height="1600" alt="WhatsApp Image 2026-09-04 at 3 26 08 PM (1)" src="https://github.com/user-attachments/assets/4d3ed2ff-26e5-456f-a331-f1a886261648" />
 <img width="905" height="1600" alt="WhatsApp Image 2026-09-04 at 3 26 09 PM" src="https://github.com/user-attachments/assets/b7875736-ad8d-4c7c-81d5-55a712074611" />
-
 # LCM & HCF --- Model1
 
